@@ -1,0 +1,22 @@
+
+---
+
+# Step 7: Create `.gitignore`
+
+````gitignore
+target/
+**/target/
+
+Cargo.lock
+
+.env
+
+.env.local
+
+.DS_Store
+
+.vscode/
+
+.idea/
+
+node_modules/
