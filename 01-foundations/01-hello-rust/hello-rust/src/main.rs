@@ -1,5 +1,9 @@
 fn main() {
-    println!("Hello, Bishal");
-    println!("Welcome to Rust Engineering");
-    println!("This is my first Rust Program");
+    println!("=================================");
+    println!("        Rust Engineering");
+    println!("=================================");
+    println!("Name   : Bishal Pal");
+    println!("Course : Rust Engineering");
+    println!("Goal   : Full Stack Solana Developer");
+    println!("=================================");
 }
